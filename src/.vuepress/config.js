@@ -36,7 +36,7 @@ module.exports = {
       '/pages/03-herencia',
       '/pages/04-polimorfismo',
       '/pages/05-encapsulamiento',
-      // '/pages/06-excepciones',
+      '/pages/06-batalla',
     ]
   },
   plugins: [
