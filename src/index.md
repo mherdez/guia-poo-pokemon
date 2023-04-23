@@ -1,6 +1,6 @@
 # Introducción
 
 <center>
-<img src='/img/pikachu.png' alt='pikachu' style='center' />
+<img :src="$withBase('/img/pikachu.png')" />
 </center>
 
