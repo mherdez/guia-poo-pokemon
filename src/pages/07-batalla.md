@@ -2,6 +2,11 @@
 
 ## Pikachu vs Charmander vs Squirtle
 
+<center style='margin:30px'>
+<img :src="$withBase('/img/pokemon-fight.png')" width='600' />
+</center>
+
+
 Primero, vamos a crear las instancias de los Pokémon:
 
 ~~~js
