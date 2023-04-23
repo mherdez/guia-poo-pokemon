@@ -32,12 +32,11 @@ module.exports = {
     sidebar: [
       '/',
       '/pages/01-introduccion',
-      '/pages/02-markdown',
-      '/pages/03-design',
-      '/pages/04-practica-2',
-      '/pages/05-deploy',
-      '/pages/06-practica-3',
-      '/pages/07-avanzado',
+      '/pages/02-clases',
+      '/pages/03-herencia',
+      '/pages/04-polimorfismo',
+      '/pages/05-encapsulamiento',
+      // '/pages/06-excepciones',
     ]
   },
   plugins: [
