@@ -59,7 +59,7 @@ La clase también tiene dos métodos públicos. El primer método, `xp`, es un *
 
 En la parte final del código, se crea un objeto `pika` a partir de la clase `Pokemon` y se muestra el nivel inicial del Pokemon utilizando el `getter xp`. A continuación, se llama al método `ganaXp` con una cantidad de puntos de experiencia de 10, lo que aumenta el nivel del Pokemon. Finalmente, se muestra el nivel actualizado del Pokemon utilizando el `getter xp`.
 
-En resumen, este código simula la experiencia y el nivel de un Pokemon utilizando propiedades y métodos públicos y privados de una clase en JavaScript.
+Como se observó, este código simula la experiencia y el nivel de un Pokemon utilizando propiedades y métodos públicos y privados de una clase en JavaScript.
 
 :::tip En resumen
 El encapsulamiento se refiere a la idea de ocultar la complejidad de un objeto y proteger sus datos internos mediante el uso de métodos y propiedades privadas y públicas. Es decir, se trata de ocultar la implementación interna de un objeto y sólo exponer una interfaz pública que permita interactuar con él de forma controlada.
