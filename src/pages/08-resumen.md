@@ -1,8 +1,8 @@
-# Glosario
+# Resumen
 
 ## **Objeto**
 
-Un objeto es una instancia única de una clase que tiene un estado (datos) y un comportamiento (métodos) definidos en la clase.
+Un objeto es una instancia de una clase que representa una entidad del mundo real o un concepto dentro de un programa que tiene un conjunto de propiedades (datos) y comportamientos (métodos) específicos y definidos.
 
 ## **Clase**
 

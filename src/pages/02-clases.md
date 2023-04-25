@@ -30,6 +30,8 @@ class Pokemon {
 
 En este código, creamos la clase **Pokemon** con su constructor que recibe los parámetros de `nombre`, `tipo`, `nivel`, `ataque`, `defensa` y `velocidad`, y el método `atacar()`, que simplemente imprime un mensaje en la consola diciendo que el Pokémon ha usado un ataque básico.
 
+La palabra clave `this` se refiere al objeto actual de la clase `Pokemon`. En otras palabras, cuando se llama a un método o propiedad de la instancia de la clase `Pokemon` utilizando `this`, se hace referencia al objeto específico creado a partir de esa clase. Por ejemplo, `this.nombre` se refiere al nombre del objeto `Pokemon` específico que se creó utilizando la clase `Pokemon`.
+
 Ahora, para crear un objeto de esta clase, podemos utilizar la palabra clave `new` seguida del nombre de la clase y los parámetros que queremos pasarle al constructor. Por ejemplo:
 
 ~~~js
