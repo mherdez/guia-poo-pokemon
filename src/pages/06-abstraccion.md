@@ -100,7 +100,7 @@ raichu.attack();
 raichu.useElectricAttack();
 ~~~
 
-En este código, hemos creado un objeto raichu de la clase `ElectricPokemon`, estableciendo su nombre y puntos de salud. Luego, hemos utilizado los métodos `get` para obtener el nombre y el tipo de `raichu`, hemos llamado al método `attack` para que `raichu` ataque, y finalmente hemos llamado al método `useElectricAttack` para que `raichu` use su ataque eléctrico.
+En este código, hemos creado un objeto `raichu` de la clase `ElectricPokemon`, estableciendo su nombre y puntos de salud. Luego, hemos utilizado los métodos `get` para obtener el nombre y el tipo de `raichu`, hemos llamado al método `attack` para que `raichu` ataque, y finalmente hemos llamado al método `useElectricAttack` para que `raichu` use su ataque eléctrico.
 
 En resumen, la abstracción nos permite representar objetos de manera simplificada y trabajar con ellos sin tener que preocuparnos por los detalles internos que conforman al objeto. Además, nos permite crear clases más especializadas que heredan de una clase base y que contienen propiedades y métodos específicos para cada tipo de objeto.
 
