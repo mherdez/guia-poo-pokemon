@@ -33,11 +33,13 @@ module.exports = {
       '/',
       '/pages/01-introduccion',
       '/pages/02-clases',
-      '/pages/03-herencia',
-      '/pages/04-polimorfismo',
-      '/pages/05-encapsulamiento',
-      '/pages/06-excepcion',
-      '/pages/07-batalla',
+      '/pages/03-encapsulamiento',
+      '/pages/04-herencia',
+      '/pages/05-polimorfismo',
+      '/pages/06-abstraccion',
+      '/pages/07-excepcion',
+      '/pages/08-resumen',
+      '/pages/09-batalla',
     ]
   },
   plugins: [

@@ -1,7 +1,7 @@
 # Objeto
 
 <center>
-<img :src="$withBase('/img/pika-abstracto.png')" width='300'/>
+<img :src="$withBase('/img/pika-objeto.png')" width='300'/>
 </center>
 
 Un objeto es una colección de datos relacionados y/o funcionalidad (que generalmente consta de algunas variables y funciones, que se denominan propiedades y métodos cuando están dentro de objetos).

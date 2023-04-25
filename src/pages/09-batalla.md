@@ -1,9 +1,9 @@
-# Batalla Pokemon
+# Pokemon Battle
 
-## Pikachu vs Charmander vs Squirtle
+### Pikachu vs Charmander vs Squirtle
 
 <center style='margin:30px'>
-<img :src="$withBase('/img/pokemon-fight.png')" width='600' />
+<img :src="$withBase('/img/pokemon-battle.png')" width='600' />
 </center>
 
 

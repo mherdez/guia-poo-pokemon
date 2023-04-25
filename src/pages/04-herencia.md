@@ -5,6 +5,7 @@
 <img :src="$withBase('/img/pikas.jpg')" width='400' />
 </center>
 
+
 La herencia es un concepto importante en programación orientada a objetos que nos permite crear nuevas clases basadas en clases existentes, lo que nos permite reutilizar código y evitar la duplicación de esfuerzos.
 
 En el caso de los **Pokémon**, podríamos crear diferentes tipos de **Pokémon**, como los Pokémon *eléctricos*, *acuáticos*, de *fuego*, entre otros. Cada uno de estos tipos de **Pokémon** tendría algunas propiedades y métodos en común, pero también tendría propiedades y métodos únicos.
