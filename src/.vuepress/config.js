@@ -3,7 +3,7 @@ module.exports = {
   base: '/guia-poo-pokemon/',
   lang: 'es-ES',
   title: 'Programación Orientada a Objetos con Pokemones 🕹',
-  description: 'Curso intersemestral de Vuepress. ITCampeche',
+  description: 'Entendiendo POO con analogías y ejemplos. ITCampeche',
   themeConfig: {
     editLinks: false,
     lastUpdated: false,
